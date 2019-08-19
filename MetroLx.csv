@@ -11,8 +11,8 @@ AR,Arroios,green,38.73305556,-9.133888889
 AS,Amadora Este,blue,38.75777778,-9.218055556
 AV,Avenida,blue,38.72,-9.145833333
 AX,Ameixoeira,yellow,38.77916667,-9.16
-BC,Baixa-Chiado,blue,38.7,-9.133333333
-BC,Baixa-Chiado,green,38.7,-9.133333333
+BC,Baixa-Chiado,blue,38.710556,-9.139444
+BC,Baixa-Chiado,green,38.710556,-9.139444
 BV,Bela Vista,red,38.74666667,-9.116944444
 CA,Carnide,blue,38.75861111,-9.1925
 CG,Campo Grande,yellow,38.76,-9.157777778
@@ -31,7 +31,7 @@ LA,Laranjeiras,blue,38.74805556,-9.171944444
 LU,Lumiar,yellow,38.77277778,-9.159722222
 MM,Martim Moniz,green,38.71694444,-9.135555556
 MO,Moscavide,red,38.775,-9.1025
-MP,Marques de Pombal,yellow,38.72472222,-9.176944444
+MP,Marques de Pombal,yellow,38.72416667,-9.149166667
 MP,Marques de Pombal,blue,38.72416667,-9.149166667
 OD,Odivelas,yellow,38.79305556,-9.172777778
 OL,Olaias,red,38.73916667,-9.123888889
